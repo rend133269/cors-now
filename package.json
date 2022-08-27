@@ -14,7 +14,7 @@
     "node": "^16.0.0"
   },
   "scripts": {
-    "start": "micro index.js",
+    "start": "node index.js",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
