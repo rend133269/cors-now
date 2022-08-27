@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "micro index.js",
-    "snyk-protect": "snyk-protect",
+    "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
   "files": [
