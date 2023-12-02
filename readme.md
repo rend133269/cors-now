@@ -3,7 +3,7 @@
 > reverse proxy with CORS headers.
 
 
-## Usage:
+## Usage now:
 
 __Just do a `fetch` on the below:__
 
